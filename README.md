@@ -6,6 +6,6 @@ Homebrew formulae by Bobby.
 brew install bobbydotdesign/tap/termadoro
 ```
 
-**termadoro** is a pomodoro timer for your terminal that thinks it's an arcade
-cabinet. Test builds for Apple Silicon Macs; see
+**Termadoro** is a focus timer for your terminal, kept by something very old.
+Test builds for Apple Silicon Macs; see
 [termadoro-releases](https://github.com/bobbydotdesign/termadoro-releases) for details.

@@ -1,8 +1,8 @@
 class Termadoro < Formula
-  desc "Pomodoro timer for your terminal that thinks it's an arcade cabinet"
-  homepage "https://github.com/bobbydotdesign/termadoro-releases"
-  url "https://github.com/bobbydotdesign/termadoro-releases/releases/download/v0.2.1/termadoro-aarch64-apple-darwin.tar.gz"
-  sha256 "68f32cbd51869ffea3b6e290ab5a442158d7749afdacfeab2ef4696be75a8b58"
+  desc "Focus timer for your terminal, kept by something very old"
+  homepage "https://bobbydotdesign.github.io/termadoro-releases/"
+  url "https://github.com/bobbydotdesign/termadoro-releases/releases/download/v0.3.0/termadoro-aarch64-apple-darwin.tar.gz"
+  sha256 "5f17afea6f5a7fd20227e841a94308023144b4af5d65024805e80670918abee0"
   license "MIT"
 
   depends_on arch: :arm64
