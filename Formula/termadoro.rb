@@ -1,8 +1,8 @@
 class Termadoro < Formula
   desc "Focus timer for your terminal, kept by something very old"
   homepage "https://termadoro.com"
-  url "https://github.com/bobbydotdesign/termadoro-releases/releases/download/v0.3.4/termadoro-aarch64-apple-darwin.tar.gz"
-  sha256 "bcca2e33c0650256f3e2b251dbb53e6b58717d54047f1b67146a8b3e56af9030"
+  url "https://github.com/bobbydotdesign/termadoro-releases/releases/download/v0.3.5/termadoro-aarch64-apple-darwin.tar.gz"
+  sha256 "68c8ebab31b0444fefa2b2122f5c33ae8be5cac53b5ae412f5a69a23437b245c"
   license "MIT"
 
   depends_on arch: :arm64
